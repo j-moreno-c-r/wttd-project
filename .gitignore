@@ -3,4 +3,5 @@
 .wttd
 *.sqlite3
 *pyc
+eventex/__pycache__/*
 __pycache__
